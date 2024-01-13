@@ -1,7 +1,7 @@
 ### Hi, i´m Ivan 👋💻
 
 You can find me on 🌐:
-- Linkedin [https://www.linkedin.com/in/ivan-cabrera-334020137/]
+-  (Linkedin)[https://www.linkedin.com/in/ivan-cabrera-334020137/]
 
 <!--
 **icabrera29/icabrera29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
