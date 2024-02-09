@@ -3,7 +3,7 @@
 You can find me on [Linkedin](https://www.linkedin.com/in/ivan-cabrera-334020137/)
 
 - 🔭 I’m currently working on: trading indicators for ninjatrader
-- 🌱 I’m currently learning: Graphql
+- 🌱 I’m currently learning: Graphql and C#
 - 💬 Ask me about: React, Nodejs, Aws
 
 
